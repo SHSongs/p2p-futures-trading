@@ -12,13 +12,16 @@ https://github.com/SHSongs/som-p2p-futures-trading/assets/48788892/18eb5bb9-8323
 Details
 =========
 
-1. Som P2P Futures Trading Market can  enable greater transparency and security through the use of blockchain technology. Transactions and contract details are recorded on a distributed ledger, providing a tamper-proof record of all trades and enhancing trust between participants.
+P2P Futures Trading has the potential to provide stable income to small-scale farmers for several reasons:
 
+1. Price Stability: Through P2P Futures Trading, farmers can enter into futures contracts for their agricultural commodities at a fixed price. This allows them to secure stability amidst price volatility. The example of "Onion prices plummet by 80%, farmers abandon their fields" highlights the challenges faced by farmers due to market volatility. Som P2P Futures Trading Market can address these issues by offering a platform where farmers and other market participants can enter into futures contracts to hedge against price fluctuations.
 
-2. Allowing individuals from anywhere in the world to participate without the need for a traditional brokerage account. It can also offer lower transaction costs since there are no intermediaries involved, reducing fees and eliminating the need for clearinghouses.
+2. Elimination of Intermediaries and Fees: P2P Futures Trading operates without intermediaries or middlemen. This empowers farmers to sell their produce at higher prices. By bypassing traditional exchanges or brokers, they can save on transaction fees and brokerage costs.
 
+3. Market Accessibility: P2P Futures Trading provides access to individuals worldwide, enabling small-scale farmers to participate regardless of their geographical location. This breaks down barriers of geography, economics, and technology, opening up opportunities for farmers to tap into global markets. This diversification of income sources and market access enhances stability.
 
-3. In traditional futures trading, participants trade futures contracts on centralized exchanges, which act as intermediaries, matching buyers and sellers and facilitating the trading process. However, P2P futures trading eliminates the need for intermediaries by leveraging blockchain technology and smart contracts.
+4. Transparency and Trust: P2P Futures Trading leverages blockchain technology, where transactions and contract details are recorded on a distributed ledger. This enhances transparency, prevents manipulation or fraudulent activities, and fosters trust among participants. Such transparency contributes to a more secure trading environment.
+
 
 
 
